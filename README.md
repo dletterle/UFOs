@@ -102,11 +102,12 @@ function filterTable(obj) {
 
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/99268646/166502744-c5998ef7-9ca3-40c3-8def-ab11565c137f.png">
 
-Steps: 
-Use the line file:///C:/Users/lette/Desktop/Module%2011/Challenge/index.html
-Use the filter search (image above) 
-With the filter search, can enter in Date, City, State, Country and Shape 
-Click "Filter Table" OR "Clear Table" 
+_Steps_: 
+
+ * Use the line file:///C:/Users/lette/Desktop/Module%2011/Challenge/index.html
+ * Use the filter search (image above) 
+ * With the filter search, can enter in Date, City, State, Country and Shape 
+ * Click "Filter Table" OR "Clear Table" 
 
 
 **Summary**
