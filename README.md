@@ -114,4 +114,7 @@ _Steps_:
 
  *  In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
+One drawback to this design, such as other html data systems is that it is a static language and therefore cannot produce dynamic language. 
+
+Two recommendations for further development include having a "data-pull" frequency set up to continue to populate the html because the data, as mentioned above, is static. Another recommendation is that html is difficult to learn and can be costly when there is turnover amongst employment, so it is neccessary to create a guide/ process to continue to develop this information. 
 
