@@ -112,5 +112,6 @@ _Steps_:
 
 **Summary**
 
+ *  In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 
